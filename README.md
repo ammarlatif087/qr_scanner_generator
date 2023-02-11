@@ -1,6 +1,12 @@
 # qr_scanner_generator
 
-A new Flutter project.
+"Flutter app with QR code scanner and generator.
+Uses qr_code_scanner
+url_launcher
+qr_flutter
+path_provider
+share_plus and gallery_saver packages.
+Scan from camera or generate custom codes, save to gallery and share via email or social media. Clean UI, well-documented and easily extendable."
 
 ## Getting Started
 
